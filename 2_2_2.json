@@ -22,10 +22,73 @@
   },
   {
     "Year": "2011",
-    "Primary Sector": 44781.5,
-    "Second Sector": 227035.1,
+    "Primary Sector": 49084.6,
+    "Second Sector": 244639.1,
     "Tertiary Sector":216123.6,
     "GDP Growth Rate":18.4
+  },
+  {
+    "Year": "2012",
+    "Primary Sector": 49084.6,
+    "Second Sector": 244639.1,
+    "Tertiary Sector":244856.2,
+    "GDP Growth Rate":10.4
+  },
+  {
+    "Year": "2013",
+    "Primary Sector": 53028.1,
+    "Second Sector": 261951.6,
+    "Tertiary Sector":277983.5,
+    "GDP Growth Rate":10.1
+  },
+  {
+    "Year": "2014",
+    "Primary Sector": 55626.3,
+    "Second Sector": 277282.8,
+    "Tertiary Sector":310654.0,
+    "GDP Growth Rate":8.5
+  },
+  {
+    "Year": "2015",
+    "Primary Sector": 57774.6,
+    "Second Sector": 281338.9,
+    "Tertiary Sector":349744.7,
+    "GDP Growth Rate":7.0
+  },
+  {
+    "Year": "2016",
+    "Primary Sector": 60139.2,
+    "Second Sector": 295427.8,
+    "Tertiary Sector":390828.1,
+    "GDP Growth Rate":8.4
+  },
+  {
+    "Year": "2017",
+    "Primary Sector": 62099.5,
+    "Second Sector": 331580.5,
+    "Tertiary Sector":438355.9,
+    "GDP Growth Rate":11.5
+  },
+  {
+    "Year": "2018",
+    "Primary Sector": 64745.2,
+    "Second Sector": 364835.2,
+    "Tertiary Sector":489700.8,
+    "GDP Growth Rate":10.5
+  },
+  {
+    "Year": "2019",
+    "Primary Sector": 70473.6,
+    "Second Sector": 380670.6,
+    "Tertiary Sector":535371,
+    "GDP Growth Rate":7.3
+  },
+  {
+    "Year": "2020",
+    "Primary Sector": 77754.1,
+    "Second Sector": 384255.3,
+    "Tertiary Sector":553976.8,
+    "GDP Growth Rate":3.0
   }
 
 ]
