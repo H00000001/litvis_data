@@ -1,0 +1,31 @@
+[
+ {
+   "Year": "2008",
+   "Primary Sector": 32464.1,
+   "Second Sector": 149952.9,
+   "Tertiary Sector":136827.5,
+   "GDP Growth Rate":0
+ },
+ {
+    "Year": "2009",
+    "Primary Sector": 33583.8,
+    "Second Sector": 160168.8,
+    "Tertiary Sector":154765.1,
+    "GDP Growth Rate":9.2
+  },
+  {
+    "Year": "2010",
+    "Primary Sector": 38430.8,
+    "Second Sector": 191626.5,
+    "Tertiary Sector":182061.9,
+    "GDP Growth Rate":18.2
+  },
+  {
+    "Year": "2011",
+    "Primary Sector": 44781.5,
+    "Second Sector": 227035.1,
+    "Tertiary Sector":216123.6,
+    "GDP Growth Rate":18.4
+  }
+
+]
